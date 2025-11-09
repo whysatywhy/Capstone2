@@ -1,0 +1,32 @@
+# Quantum Teleportation Simulator - Python Dependencies
+# Month 2 Capstone Project - IMSc Quantum Computing Course
+
+# Core Scientific Computing
+numpy>=1.24.0,<2.0.0
+scipy>=1.10.0,<2.0.0
+
+# Visualization
+matplotlib>=3.7.0,<4.0.0
+
+# Testing
+pytest>=7.4.0,<8.0.0
+pytest-cov>=4.1.0,<5.0.0
+
+# Code Quality (Optional but Recommended)
+black>=23.0.0,<24.0.0
+pylint>=2.17.0,<3.0.0
+flake8>=6.0.0,<7.0.0
+
+# Type Checking (Optional)
+mypy>=1.4.0,<2.0.0
+
+# Documentation (Optional)
+sphinx>=7.0.0,<8.0.0
+sphinx-rtd-theme>=1.3.0,<2.0.0
+
+# Jupyter Support (Optional - for exploration)
+jupyter>=1.0.0,<2.0.0
+ipython>=8.14.0,<9.0.0
+
+# Development Tools (Optional)
+ipdb>=0.13.13  # Debugging
